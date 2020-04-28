@@ -1,0 +1,23 @@
+.axis-label {
+  font-size: 16pt;
+  stroke: #797979;
+  fill: #797979;
+}
+
+.brush .selection {
+  fill: #4b9cb7;
+}
+
+.lower-info {
+  margin-left: 50px;
+
+  .info-text {
+    font-size: 0.8em;
+    color: #500000;
+    font-weight: bold;
+  }
+
+  svg {
+    color: darkblue;
+  }
+}
